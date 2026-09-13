@@ -1,3 +1,5 @@
+<div>
+
 ## FULL PREVIEW:
 
  <img src="https://iili.io/nqIGAs1.png" alt="Banner" width="100%">
@@ -27,6 +29,6 @@
 ## 02. STATS ステータス
   
  <a href = "any link"><img src="https://img.shields.io/badge/コンピューター☆ウェブサイト☆アカウント-101010?style=for-the-badge&logo=carrd&logoColor=white" target="_blank"></a>  
- <img height="192em" src="https://github-stats-extended.vercel.app/api/top-langs?username=your username&langs_count=4&show_icons=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=101010"/>
+ <img height="192em" src="https://github-stats-extended.vercel.app/api/top-langs?username=karina-exe&langs_count=4&show_icons=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=101010"/>
 
 </div>
